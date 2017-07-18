@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 import PropTypes from 'prop-types'
 
 const Link = ({ active, children, onClick }) => {
@@ -25,4 +25,4 @@ Link.propTypes = {
   onClick: PropTypes.func.isRequired
 }
 
-export default Link
+export default Link*/
